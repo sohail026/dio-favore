@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DIO FAVORE</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    img {
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <img src="dio one.jpg" alt="Image 1">
+  <img src="dio two.jpg" alt="Image 2">
+  <img src="dio three.jpg" alt="Image 3">
+  <img src="dio four.jpg" alt="Image 4">
+  <img src="dio five.jpg" alt="Image 5">
+  <img src="dio six.jpg" alt="Image 6">
+  <img src="dio siven.jpg" alt="Image 7">
+  <img src="dio eight.jpg" alt="Image 8">
+  <img src="dio nine.jpg" alt="Image 9">
+  <img src="dio ten.jpg" alt="Image 10">
+</body>
+</html>
